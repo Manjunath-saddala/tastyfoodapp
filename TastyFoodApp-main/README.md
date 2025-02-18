@@ -7,11 +7,6 @@ About This Project
 Getting Started
 To clone this repository and run the project locally, follow these simple steps:
 
-Clone the Repository:
-
-sh
-Copy code
-git clone https://github.com/gopalk26/TastyFoodApp.git
 
 
 
